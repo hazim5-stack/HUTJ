@@ -87,4 +87,4 @@ Built by **Hazim Batwa**. Related independent projects include [CleanYourTV](htt
 
 ## License
 
-No open-source license has been selected. All rights reserved by default until a license is added.
+Licensed under the [MIT License](LICENSE). Copyright (c) 2026 Hazim Batwa. Third-party projects retain their own licenses.

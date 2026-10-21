@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "platforms": [
+    "lg-webos",
+    "samsung-tizen",
+    "android-tv",
+    "google-tv",
+    "amazon-fire-tv",
+    "apple-tvos",
+    "roku-tv",
+    "vidaa-tv"
+  ],
+  "shared": [
+    "device-discovery",
+    "firmware-analyzer",
+    "root-jailbreak-checker",
+    "home-composer",
+    "app-manager",
+    "backup-recovery",
+    "network-adblock"
+  ]
+}

@@ -1,18 +1,18 @@
 # HUTJ Roadmap
 
-## v1.0 — AI Skills
-8 platform guides, 7 shared guides, registry and agent policy. No runtime engine yet.
+## v1.1 — Local AI skills (current)
+Codex entrypoint, Claude Code entrypoint, 15 platform/shared skill guides, local-only policies, registry and documentation.
 
-## v1.1 — Validation
-Schema validation, skill tests and version-specific compatibility records.
+## v1.2 — Local discovery
+Cross-platform read-only LAN discovery scripts, consent-based subnet scope and structured device reports.
 
-## v1.2 — Connectivity
-Consent-based discovery, official platform adapters and dry-run execution.
+## v1.3 — Vendor adapters
+Official ADB, SDB and webOS CLI command wrappers with dry-run, verification and audit logs.
 
-## v1.3 — Device Workflows
-Verified diagnostics, app operations and supported rollback methods.
+## v1.4 — Compatibility
+Versioned capability database with tested model/firmware records and explicit unsupported states.
 
-## v2.0 — Desktop Experience
-Device dashboard, AI Home Composer and extensible plugin architecture.
+## v2.0 — Advanced skills
+Home customization recipes, safe app workflows, firmware inspection and documented recovery paths.
 
-These are plans, not claims of shipped functionality.
+No standalone TV app, hosted backend or HUTJ AI service is planned.

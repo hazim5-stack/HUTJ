@@ -1,5 +1,11 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
+  "mode": "local-agent-skills",
+  "execution": "local-lan",
+  "entrypoints": {
+    "codex": ".agents/skills/hutj/SKILL.md",
+    "claude": ".claude/skills/hutj/SKILL.md"
+  },
   "platforms": [
     "lg-webos",
     "samsung-tizen",

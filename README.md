@@ -48,6 +48,12 @@ To explicitly invoke the skill, use `$hutj` in Codex or `/hutj` in Claude Code w
 
 Platform and shared guides live in `skills/<name>/SKILL.md`, with `registry.json` as an index. Skill instructions are **not proof that the corresponding CLI integration is implemented or tested**.
 
+## LG webOS: standalone home dashboards
+
+HUTJ can now guide the **assessment** of an ordinary launchable LG webOS dashboard IPK, official Developer Mode and Key Server setup, app manifest/permissions review, remote-friendly home UI, and a safe installation/uninstall plan. This extends the guidance, **not** the runtime: HUTJ still has no tested automatic installer. A launchable custom dashboard is not the same as replacing LG's system launcher or rooting the TV.
+
+See [LG home app workflows and source security review](docs/lg-webos-home-apps.md), informed by the independent MIT-licensed [FreeMyTvWebOS](https://github.com/danielthejoker18/FreeMyTvWebOS). No upstream code or packages are bundled.
+
 ## Architecture
 
 ```text
@@ -83,7 +89,7 @@ See [Roadmap](docs/ROADMAP.md).
 
 ## Credits
 
-Built by **Hazim Batwa**. Related independent projects include [CleanYourTV](https://github.com/Gathin23/cleanyourtv), [Free My TV](https://github.com/simbasjungles/free-my-tv) and [TizenBrew Installer](https://github.com/reisxd/TizenBrewInstaller). Their code is not included here.
+Built by **Hazim Batwa**. Related independent projects include [CleanYourTV](https://github.com/Gathin23/cleanyourtv), [Free My TV](https://github.com/simbasjungles/free-my-tv) [FreeMyTvWebOS](https://github.com/danielthejoker18/FreeMyTvWebOS), and [TizenBrew Installer](https://github.com/reisxd/TizenBrewInstaller). Their code is not included here.
 
 ## License
 
